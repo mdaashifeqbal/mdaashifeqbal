@@ -1,3 +1,61 @@
+# Hi, I’m Pixel Code 👋
+
+I’m a frontend developer who likes building real projects and learning by doing.
+
+I spend most of my time working with HTML, CSS, JavaScript, and React.  
+Instead of just reading concepts, I prefer creating small to medium projects and improving them step by step.
+
+---
+
+## What I do
+
+- Build clean and simple user interfaces  
+- Turn ideas into working web pages  
+- Practice real-world project structures  
+- Learn modern frontend development (currently React)
+
+---
+
+## Skills I’m working with
+
+- HTML  
+- CSS  
+- JavaScript  
+- React (learning & building projects)
+
+---
+
+## Projects I’ve worked on
+
+- **Attendance Management System**  
+  Multiple protected pages with proper structure (frontend-focused)
+
+- **Weather App**  
+  Fetching real-time data and showing it in a clean UI
+
+- **Notes App**  
+  Creating, deleting, and managing notes with a simple interface
+
+- **CampusConnect (in progress)**  
+  A college event management system for my final year project
+
+---
+
+## How I like to learn
+
+I learn best by:
+- Building projects  
+- Breaking things and fixing them  
+- Improving UI and structure over time  
+
+I believe consistency and practice matter more than shortcuts.
+
+---
+
+Thanks for visiting my profile 🙂
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashifaashu01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdaashif eqbal) 
